@@ -43,5 +43,5 @@ docker run \
   --publish 5432:5432 \
   postgres:15.1-alpine
 ```
-we set up a password here hit password haja obligatory for a container to run , ila makanch maghadich ikhdm 
-also we didi publish so we can expos the port hit postgress aykon f wahd isolated container o ila bghina nconnectiw bih we need to expose the port
+We set up a password here hit password haja daroria for a container to run , ila makanch maghadich ikhdm lina dak container ga3 , also drna --publish bach ndiro expose l PORT hit Postgress aykon f wahd isolated container o ila bghina ndiro connection m3ah b PGADMIN khasna nkono deja drna expose l PORT li howa by default f Postgress 5432 
+
