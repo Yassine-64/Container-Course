@@ -6,10 +6,7 @@
 | [Building Container Images](06-building-container-images/README.md)
 | [Container Registries](07-container-registries/README.md)
 | [Running Containers](08-running-containers/README.md)
-| [Container Security](09-container-security/README.md)
-| [Interacting with Docker Objects](10-interacting-with-docker-objects/README.md)
-| [Development Workflows](11-development-workflow/README.md)
-| [Deploying Containers](12-deploying-containers/README.md)
+
 
 ---
 
