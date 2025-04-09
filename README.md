@@ -49,14 +49,4 @@ Using the containerized web application from sections 05 and 06, we craft the ne
 
 Highlights best practices for container image and container runtime security.
 
-## [10 - Interacting with Docker Objects](10-interacting-with-docker-objects/README.md)
 
-Describes how to use Docker to interact with containers, container images, volumes, and networks.
-
-## [11 - Development Workflows](11-development-workflow/README.md)
-
-Establishes tooling and configuration to enable improved developer experience when working with containers.
-
-## [12 - Deploying Containers](12-deploying-containers/README.md)
-
-Demonstrates deploying container applications to production using three different approaches: railway.app, a single node Docker Swarm, and a Kubernetes cluster.
